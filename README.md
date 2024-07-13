@@ -17,7 +17,7 @@ Welcome to my Travel Planner App, developed during Rocketseat's NLW journey. Thi
   <img alt="Preview of the project" src=".github/preview.png" width="70%">
 </p>
 
-
+You can see a functional demo of the application [here](https://e-laineramos.github.io/travel-app-nlw/).
 --
 
 For any questions or feedback, feel free to reach out. Happy travels! 🌍
